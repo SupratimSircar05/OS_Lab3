@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-# read coefficient and exponent to display result
+# read coefficient and exponent to display result (pwr op)
+# some people can't frame meaningful questions. 
 
 echo "Enter coefficient : "
 read coeff
