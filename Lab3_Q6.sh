@@ -6,7 +6,7 @@ read n
 
 i=${n}
 echo "Factors of ${n} are : "
-while [[ ${i} -ge 1 ]]
+while [[ ${i} -ge 1 ]];
 do
     if [[ $(($n%$i)) -eq 0 ]];
     then

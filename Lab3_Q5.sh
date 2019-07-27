@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # read coefficient and exponent to display result (pwr op)
-# some people can't frame meaningful questions. 
+# some people can't frame meaningful questions.
 
 echo "Enter coefficient : "
 read coeff
@@ -10,7 +10,7 @@ read exp
 
 i=${exp}
 res=1
-while [[ i -gt 0 ]]
+while [[ i -gt 0 ]];
 do
     res=$((${coeff}*${res}))
     i=$((${i}-1))

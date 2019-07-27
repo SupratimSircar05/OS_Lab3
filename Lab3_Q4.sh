@@ -8,7 +8,7 @@ read n2
 
 res=0
 
-while [[ ${n1} -ge 1 ]]
+while [[ ${n1} -ge 1 ]];
 do
     res=$((${res}+${n2}))
     n1=$((${n1}-1))
