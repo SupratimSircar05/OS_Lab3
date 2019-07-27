@@ -8,7 +8,7 @@ i=${n}
 echo "Factors of ${n} are : "
 while [[ ${i} -ge 1 ]];
 do
-    if [[ $(($n%$i)) -eq 0 ]];
+    if [[ $((${n}%${i})) -eq 0 ]];
     then
         echo "${i}"
     fi
