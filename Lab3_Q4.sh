@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # Product of two numbers without * sign multiplication
 
 echo "Enter a number"

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# switch-case bash script to determine type of person based on age
+
 # Person category selection based on age
 
 echo "Enter a age of person"

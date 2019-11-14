@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # display factors of a number
 
 echo "Enter a number : "

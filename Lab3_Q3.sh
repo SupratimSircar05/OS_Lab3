@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+
 # factorial of a number n
 
 echo "Enter a number to find its factorial"

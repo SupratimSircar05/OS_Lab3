@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# determine grade using switch-case
+
 # grade allocation
 
 echo "Enter a mark of student"
